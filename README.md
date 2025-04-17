@@ -1,3 +1,11 @@
+- [Version control with Git and GitHub](#version-control-with-git-and-github)
+- [Git installation](#git-installation)
+- [Creating a profile in GitHub](#creating-a-profile-in-github)
+- [Check if Git is properly installed](#check-if-git-is-properly-installed)
+- [A few helpful commands to know](#a-few-helpful-commands-to-know)
+- [Configure your Git](#configure-your-git)
+
+
 ## Version control with Git and GitHub
 Version control is a process that tracks changes made to any file or program to fix a bug or make continuous improvements. Version control is done locally with git with a local repository, while a remote repository is hosted online in GitHub, GitLab, or Bitbucket.
 ### Git installation
